@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: ad06ce4625280b1489c10ebccffd8f09
+timeCreated: 1427847162
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: about
+    21300002: anim_btn_start_00009
+    21300004: anim_btn_start_00010
+    21300006: anim_btn_start_00011
+    21300008: anim_btn_start_00012
+    21300010: anim_btn_start_00013
+    21300012: anim_btn_start_00014
+    21300014: anim_btn_start_00015
+    21300016: anim_btn_start_00016
+    21300018: anime_green_tap_00047
+    21300020: anime_green_tap_00048
+    21300022: anime_green_tap_00049
+    21300024: anime_green_tap_00050
+    21300026: anime_green_tap_00051
+    21300028: anime_green_tap_00052
+    21300030: anime_green_tap_00053
+    21300032: anime_green_tap_00054
+    21300034: anime_green_tap_00055
+    21300036: anime_green_tap_00056
+    21300038: anime_green_tap_00057
+    21300040: anime_green_tap_00058
+    21300042: anime_green_tap_00059
+    21300044: anime_green_tap_00060
+    21300046: anime_green_tap_00061
+    21300048: anime_green_tap_00062
+    21300050: anime_green_tap_00063
+    21300052: circle_red_00000
+    21300054: circle_red_00001
+    21300056: circle_red_00002
+    21300058: circle_red_00003
+    21300060: circle_red_00004
+    21300062: circle_red_00005
+    21300064: circle_red_00006
+    21300066: circle_red_00007
+    21300068: circle_red_00008
+    21300070: leaderboard
+    21300072: memdots
+    21300074: wait_00076
+    21300076: wait_00077
+    21300078: wait_00078
+    21300080: wait_00079
+    21300082: wait_00080
+    21300084: wait_00081
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: about
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 999
+        width: 72
+        height: 23
+      alignment: 9
+      pivot: {x: .513888896, y: .369565219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00009
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 997
+        width: 69
+        height: 25
+      alignment: 9
+      pivot: {x: .579710126, y: .479999989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00010
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 977
+        width: 128
+        height: 45
+      alignment: 9
+      pivot: {x: .5390625, y: .466666669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00011
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 957
+        width: 185
+        height: 65
+      alignment: 9
+      pivot: {x: .524324298, y: .476923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00012
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 940
+        width: 231
+        height: 82
+      alignment: 9
+      pivot: {x: .519480526, y: .47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00013
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 952
+        width: 197
+        height: 70
+      alignment: 9
+      pivot: {x: .522842646, y: .471428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 884
+        width: 152
+        height: 54
+      alignment: 9
+      pivot: {x: .532894731, y: .481481493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00015
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 883
+        width: 154
+        height: 55
+      alignment: 9
+      pivot: {x: .532467544, y: .472727269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_btn_start_00016
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 881
+        width: 164
+        height: 57
+      alignment: 9
+      pivot: {x: .530487776, y: .473684222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00047
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 875
+        width: 62
+        height: 63
+      alignment: 9
+      pivot: {x: .5, y: .492063493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00048
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 875
+        width: 62
+        height: 63
+      alignment: 9
+      pivot: {x: .5, y: .492063493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00049
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 870
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00050
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 864
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00051
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 858
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00052
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 851
+        width: 86
+        height: 87
+      alignment: 9
+      pivot: {x: .5, y: .494252861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00053
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 844
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00054
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00055
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 735
+        width: 108
+        height: 107
+      alignment: 9
+      pivot: {x: .5, y: .495327115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00056
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 728
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00057
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 720
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00058
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 712
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00059
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 704
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00060
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 696
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00061
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 540
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00062
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 532
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anime_green_tap_00063
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 632
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00000
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 632
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00001
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 631
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: .507936537, y: .507936537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00002
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 622
+        width: 71
+        height: 72
+      alignment: 9
+      pivot: {x: .549295783, y: .486111104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00003
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 620
+        width: 68
+        height: 74
+      alignment: 9
+      pivot: {x: .529411793, y: .486486495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00004
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 623
+        width: 72
+        height: 71
+      alignment: 9
+      pivot: {x: .5, y: .492957741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00005
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 629
+        width: 74
+        height: 65
+      alignment: 9
+      pivot: {x: .472972959, y: .492307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00006
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 630
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00007
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 631
+        width: 67
+        height: 63
+      alignment: 9
+      pivot: {x: .567164183, y: .476190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: circle_red_00008
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 631
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: .515625, y: .492063493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leaderboard
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 507
+        width: 148
+        height: 23
+      alignment: 9
+      pivot: {x: .496621609, y: .456521749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: memdots
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 389
+        width: 197
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wait_00076
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 513
+        width: 36
+        height: 17
+      alignment: 9
+      pivot: {x: .527777791, y: .411764711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wait_00077
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 500
+        width: 68
+        height: 30
+      alignment: 9
+      pivot: {x: .514705896, y: .466666669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wait_00078
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 486
+        width: 100
+        height: 44
+      alignment: 9
+      pivot: {x: .50999999, y: .477272719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wait_00079
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 478
+        width: 118
+        height: 52
+      alignment: 9
+      pivot: {x: .508474588, y: .480769217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wait_00080
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 482
+        width: 110
+        height: 48
+      alignment: 9
+      pivot: {x: .5090909, y: .479166657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wait_00081
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 482
+        width: 106
+        height: 48
+      alignment: 9
+      pivot: {x: .509433985, y: .479166657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
